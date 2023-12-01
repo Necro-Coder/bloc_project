@@ -1,6 +1,6 @@
 # bloc_project
 
-`Project Current State: ![#c5f015]Developing...💻`
+`Project Current State: 💻Developing...💻`
 
 This is a base project to implement the bloc pattern in Flutter.
 In this case, this is just the base project. Below, in the [Getting Started](#getting-started) section,
