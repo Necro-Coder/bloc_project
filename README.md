@@ -27,13 +27,13 @@ architecture, check out the YouTube Channel [Necro Coding].
   - [sqflite_simple_dao_backend](https://pub.dev/packages/sqflite_simple_dao_backend)
   - [logger](https://pub.dev/packages/logger)
   
-    To use the Visual Studio Code extension "Pubspec Assist", I provide you with the list
-    of packages that you need to pass to this extension.
-    `bloc,flutter_bloc,dio,sqflite,reflectable,shared_preferences,equatable,sqflite_simple_dao_backend,logger`
+To use the Visual Studio Code extension "Pubspec Assist", I provide you with the list
+of packages that you need to pass to this extension.
+```bloc,flutter_bloc,dio,sqflite,reflectable,shared_preferences,equatable,sqflite_simple_dao_backend,logger```
 
 ## Getting Started
 
-First of all. I will resume what I want to do in this project and It will be my[index](#table-of-contents).
+First of all. I will resume what I want to do in this project and It will be my [Index](#table-of-contents).
 
 In my case, I want to make an Android/IOs app in order to learn about bloc pattern. I will
 be using the official documentation that I provide on Documentation section.
