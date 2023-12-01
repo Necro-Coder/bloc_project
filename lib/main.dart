@@ -4,6 +4,8 @@ void main() {
   runApp(const MyApp());
 }
 
+//TODO: Make the basic implementation for the main.dart
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
