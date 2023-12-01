@@ -29,7 +29,7 @@ architecture, check out the YouTube Channel [Necro Coding].
   
 To use the Visual Studio Code extension "Pubspec Assist", I provide you with the list
 of packages that you need to pass to this extension.
-```bloc,flutter_bloc,dio,sqflite,reflectable,shared_preferences,equatable,sqflite_simple_dao_backend,logger```
+<bloc,flutter_bloc,dio,sqflite,reflectable,shared_preferences,equatable,sqflite_simple_dao_backend,logger>
 
 ## Getting Started
 
