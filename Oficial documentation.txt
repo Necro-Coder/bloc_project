@@ -1,0 +1,3 @@
+bloc documentation - https://bloclibrary.dev
+dart documentation - https://dart.dev/guides
+flutter documentation - https://docs.flutter.dev/
