@@ -7,11 +7,6 @@ In this case, this is just the base project. Below, in the [Getting Started](#ge
 you will find the basic installation for this project and the initial dependencies that I think
 are required for this project.
 
-This project is being completed on the Twitch Channel [NecroCoding](https://www.twitch.tv/necrocoding).
-
-For more information about the project and some explanations in Spanish about the basic project structure and
-architecture, check out the YouTube Channel [Necro Coding].
-
 ## Prerequisites
 
 - [Flutter](https://flutter.dev/)
